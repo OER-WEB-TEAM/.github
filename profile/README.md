@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://getbootstrap.com/docs/5.2/">Design System - Drupal Theme</a>
+  <a href="https://github.com/OER-WEB-TEAM/design-system--drupal-theme">Design System - Drupal Theme</a>
   ·
-  <a href="https://icons.getbootstrap.com/">Design System - Logos</a>
+  <a href="https://github.com/OER-WEB-TEAM/design-system--logos">Design System - Logos</a>
 </p>
