@@ -1,9 +1,7 @@
 <h1 align="center">Welcome to the OER Web Team Development Hub!</h1><br>
 
 <p align="center">
-  <a href="https://getbootstrap.com/">
-    ![oer-web--mascotte](https://github.com/OER-WEB-TEAM/.github/assets/56647386/230371d2-75a8-4462-ae7f-c5b6c0f93420)
-  </a>
+      <img src="/img/oer-web--mascotte.jpg">
 </p>
 
 <p align="center">
